@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="background_tab_pressed">#065</color>
+<color name="background_tab_normal">#00ffffff</color>
+    <color name="search_bt_press">#ff6d00</color>
+    <color name="search_bt">#ffa042</color>
+    <color name="app_theme">#FFA800</color>
+    <color name="tab_select">#ffa042</color>
+    <color name="bt_press">#fff</color>
+    <color name="bt">#656565</color>
+
+    <color name="background">#ffffff</color>
+</resources>
